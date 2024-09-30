@@ -46,12 +46,15 @@ Link: https://apps.apple.com/sa/app/evil-scary-baby-horror-games/id6449837743
 
 **Scary Doll House Horror Games**<br>
 Link : https://play.google.com/store/apps/details?id=com.fms.scary.doll.yellow.horror.house<br>
-![Evil Scary Baby Horror Games](assets/S1.jpg)
-![Evil Scary Baby Horror Games](assets/S2.jpg)
-![Evil Scary Baby Horror Games](assets/S3.jpg) <br>
+![Scary Doll House Horror Gamess](assets/S1.jpg)
+![Scary Doll House Horror Games](assets/S2.jpg)
+![Scary Doll House Horror Games](assets/S3.jpg) <br>
 
 **Scary Brother 3D : Scary Games** <br>
 Link : https://apps.apple.com/us/app/scary-brother-3d-scary-games/id1621056441 <br>
+![Scary Brother 3D : Scary Games](assets/SB1.jpg)
+![Scary Brother 3D : Scary Games](assets/SB2.jpg)
+![Scary Brother 3D : Scary Gamess](assets/SB3.jpg)
 
 
 
