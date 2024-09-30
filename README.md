@@ -30,3 +30,8 @@ Analyzed game performance metrics and debugged code.<br>
 **Intern Unity 3D Developer**<br>
 Flame Stone Studio (2021 – 2022) <br>
 Assisted in game development and skill building through creating prototypes.
+
+# Notable Projects
+**Evil Scary Baby Horror Games** <br>
+Link: https://apps.apple.com/sa/app/evil-scary-baby-horror-games/id6449837743
+
