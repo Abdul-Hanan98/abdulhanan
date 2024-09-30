@@ -1,5 +1,3 @@
-# Portfolio of Abdul Hanan
-***Electrical Computer Engineer | Unity 3D Game Developer | Aspiring Unreal Engine Developer***
 
 # Abdut Me
 I am an experienced Electrical Computer Engineer with a strong background in programming, particularly C#. I specialize in Unity game development, focusing on creating, optimizing, and refining gameplay systems. My role involves both technical execution and strategic design. I’m currently seeking a full-time opportunity to apply my skills, grow professionally, and contribute to impactful projects.
