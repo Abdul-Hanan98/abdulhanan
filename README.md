@@ -29,7 +29,11 @@ Analyzed game performance metrics and debugged code.<br>
 
 **Intern Unity 3D Developer**<br>
 Flame Stone Studio (2021 – 2022) <br>
-Assisted in game development and skill building through creating prototypes.
+Assisted in game development and skill building through creating prototypes.<br>
+
+# Languages
+**English**: Professional working proficiency.<br>
+**Urdu**: Native or bilingual proficiency.<br>
 
 # Notable Projects
 **Evil Scary Baby Horror Games** <br>
