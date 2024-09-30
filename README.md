@@ -10,3 +10,23 @@ _**Unreal Engine**: Currently learning to expand game development expertise.<br>
 _**Ads and SDK Integration**: Skilled in implementing in-app ads, including iOS optimizations.<br>
 _**Software Development**: Strong foundation in coding and software architecture.<br>
 _**Hardware and Systems**: Knowledgeable in embedded systems, microcontrollers, and network architecture.<br>
+
+# Work Experience
+**Lead Unity 3D Developer**
+Self-Employed (Jan 2024 – Present), Dubai
+Designed and developed games using Unity 3D, managing the entire game development lifecycle.
+Led a team of developers and artists to deliver projects on time.
+Oversaw Google Play Store accounts, handling app submissions and updates.<br>
+
+**Unity 3D Developer**
+Dodgers Play Studio (2023 – 2024)
+Developed and maintained performance for Ads Networks, iOS platform optimization, and SDK integrations.<br>
+
+**Junior Unity 3D Developer**
+Flame Stone Studio (2022 – 2023)
+Worked on game design, development, and prototyping.
+Analyzed game performance metrics and debugged code.<br>
+
+**Intern Unity 3D Developer**
+Flame Stone Studio (2021 – 2022)
+Assisted in game development and skill building through creating prototypes.
