@@ -12,21 +12,21 @@ _**Software Development**: Strong foundation in coding and software architecture
 _**Hardware and Systems**: Knowledgeable in embedded systems, microcontrollers, and network architecture.<br>
 
 # Work Experience
-**Lead Unity 3D Developer**
-Self-Employed (Jan 2024 – Present), Dubai
+**Lead Unity 3D Developer**<br>
+Self-Employed (Jan 2024 – Present), Dubai<br>
 Designed and developed games using Unity 3D, managing the entire game development lifecycle.
 Led a team of developers and artists to deliver projects on time.
 Oversaw Google Play Store accounts, handling app submissions and updates.<br>
 
-**Unity 3D Developer**
-Dodgers Play Studio (2023 – 2024)
+**Unity 3D Developer**<br>
+Dodgers Play Studio (2023 – 2024)<br>
 Developed and maintained performance for Ads Networks, iOS platform optimization, and SDK integrations.<br>
 
-**Junior Unity 3D Developer**
-Flame Stone Studio (2022 – 2023)
+**Junior Unity 3D Developer**<br>
+Flame Stone Studio (2022 – 2023)<br>
 Worked on game design, development, and prototyping.
 Analyzed game performance metrics and debugged code.<br>
 
-**Intern Unity 3D Developer**
-Flame Stone Studio (2021 – 2022)
+**Intern Unity 3D Developer**<br>
+Flame Stone Studio (2021 – 2022) <br>
 Assisted in game development and skill building through creating prototypes.
