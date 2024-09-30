@@ -13,7 +13,7 @@ _**Hardware and Systems**: Knowledgeable in embedded systems, microcontrollers, 
 
 # Work Experience
 **Lead Unity 3D Developer**<br>
-Self-Employed (Jan 2024 – Present), Dubai<br>
+Titanium Game Studio (Jan 2024 – Present), Dubai<br>
 Designed and developed games using Unity 3D, managing the entire game development lifecycle.
 Led a team of developers and artists to deliver projects on time.
 Oversaw Google Play Store accounts, handling app submissions and updates.<br>
