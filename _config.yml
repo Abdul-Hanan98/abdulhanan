@@ -1,9 +1,4 @@
 title: Abdul Hanan
 description: Electrical Computer Engineer | Unity 3D Game Developer | Aspiring Unreal Engine Developer
 
-
-
 theme: jekyll-theme-time-machine
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
