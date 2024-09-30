@@ -2,16 +2,7 @@ title: Abdul Hanan
 description: Electrical Computer Engineer | Unity 3D Game Developer | Aspiring Unreal Engine Developer
 logo: assets/profile-pic.png
 
-theme: minima
-
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
-# add a line comment on "theme: minima" above.
-#remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-time-machine
 #remote_theme: pages-themes/architect@v0.2.0
 #plugins:
