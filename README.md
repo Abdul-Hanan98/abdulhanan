@@ -98,7 +98,10 @@ Link : https://play.google.com/store/apps/details?id=com.fms.scary.teddy.bear.ho
 
 **Granny Life: Grandma Simulator** <br>
 Link : https://apps.apple.com/us/app/granny-life-grandma-simulator/id1585809322 <br>
-
+![Granny Life: Grandma Simulator](assets/GL1.jpg)
+![Granny Life: Grandma Simulator](assets/GL2.jpg)
+![Granny Life: Grandma Simulator](assets/GL3.jpg)
+![Granny Life: Grandma Simulator](assets/GL4.jpg)<br>
 
 
 
